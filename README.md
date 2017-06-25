@@ -1,0 +1,2 @@
+# learning-bash
+#!/bin/bash
